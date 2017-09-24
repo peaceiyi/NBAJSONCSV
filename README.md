@@ -14,9 +14,9 @@ How to get JSON data:
 
 
 How to convert JSON to CSV
-1. Save the json2csv.py script into a folder
+1. Save the jsoncsv.py script into a folder
 2. Save the JSON dataset(s) into the same folder as the script
 3. Open terminal, and make the directory the folder all the datafiles and scripts are in
-4. For each file, type "python3 json2csv.py jsonfile", with jsonfile being the file name
+4. For each file, type "python3 jsoncsv.py jsonfile", with jsonfile being the file name
 5. A new csv file with the same name as the json file should be in the folder
 6. You're done!
