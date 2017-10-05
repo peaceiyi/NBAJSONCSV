@@ -20,3 +20,4 @@ How to convert JSON to CSV
 4. For each file, type "python3 jsoncsv.py jsonfile", with jsonfile being the file name
 5. A new csv file with the same name as the json file should be in the folder
 6. You're done!
+7. If you get an error using the jsoncsv.py script, try the jsoncsv_cluster.py script. For sets that are clustered (like shooting stats split by distance), the original script may not work.
